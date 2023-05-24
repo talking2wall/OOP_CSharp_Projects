@@ -1,4 +1,4 @@
-# Object Oriented Programming in C# course proects
+# Object Oriented Programming in C# course projects
 This repo contains all of the project I made in the OOP in C# course.
 
 
