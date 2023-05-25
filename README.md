@@ -2,7 +2,7 @@
 This repo contains all of the project I made in the OOP in C# course.
 
 
-## The repo contains 5 projects:
+## This repo contains 5 projects:
 1. C# Basics
 2. Garage Manager (Using Reflection)
 3. Menu w/ Delegates and Interfaces
